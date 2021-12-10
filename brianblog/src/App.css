@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.CardPost {
+  color: #808080;
+}
+p {
+  font-size: 10px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
+.btnSesion {
+  position: absolute;
+  left: 90%;
+  border-radius: 10px;
+  background-color: green;
+  height: 100px;
+  height: 100px;
+}
